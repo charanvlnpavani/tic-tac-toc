@@ -1,0 +1,17 @@
+.player{
+    margin: 2px;
+    padding: 10px;
+}
+.textInput{
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    text-transform: uppercase;
+    text-align: center;
+    background-color: #33301F;
+    font-size: 14px;
+}
+button{
+    padding: 5px 10px;
+    width: 4vw;
+}

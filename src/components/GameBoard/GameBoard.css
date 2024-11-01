@@ -1,0 +1,26 @@
+.game_board{
+    list-style-type: none;
+    padding: 10px;
+}
+
+.row{
+    padding: 5px;
+}
+.olCol{
+    display: flex;
+    justify-content: space-evenly;
+}
+.col{
+    list-style-type: none;
+
+}
+.col button{
+    margin: 10px;
+    border-radius: 5px;
+    width: 10vw;
+    height: 15vh;
+    background-color: #9C9877;
+    color: #2D2A00;
+    font-size: 120px;
+    font-weight:bolder;
+}

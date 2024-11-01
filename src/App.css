@@ -1,0 +1,37 @@
+.gameContainer{
+  width: 50vw;
+  height: auto;
+  margin: auto;
+  background-color: #242114;
+  color: white;
+  border-radius: 5px;
+  box-shadow: -4px -9px 89px 2px rgba(0,0,0,0.44);
+  -webkit-box-shadow: -4px -9px 89px 2px rgba(0,0,0,0.44);
+  -moz-box-shadow: -4px -9px 89px 2px rgba(0,0,0,0.44);
+  text-transform: uppercase;
+  padding: 20px;
+}
+
+.players{
+  
+  display: flex;
+  justify-content: space-evenly;
+  list-style: none;
+  
+  
+}
+.playerName, .playerSymbol{
+  margin: 50px;
+}
+
+button{
+  color: #A1A07A;
+  background-color:#242114 ;
+  border: none;
+  cursor: pointer;
+}
+.main{
+  display: flex;
+  justify-content: space-evenly;
+}
+
