@@ -2,10 +2,9 @@ import { useState } from "react";
 import "./App.css";
 import GameBoard from "./components/GameBoard/GameBoard";
 import Player from "./components/Player/Player";
-import Logs from "./components/Logs/Logs";
+import Logs from "./components/LogsData/Logs";
 import { WINNING_COMBINATIONS } from "./winning_combinations";
 import GameOver from "./components/GameOver/GameOver";
-
 const PLAYERS ={
   X: 'Player 1',
   O: 'Player 2'
